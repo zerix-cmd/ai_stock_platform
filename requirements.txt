@@ -6,14 +6,13 @@ yfinance
 pandas
 numpy
 pandas-ta
-TA-Lib; platform_system!="Windows"
 scikit-learn
 xgboost
 lightgbm
 torch
 transformers
 plotly
-streamlit
 pydantic
 python-dotenv
 pytest
+streamlit
