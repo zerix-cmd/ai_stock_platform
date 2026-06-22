@@ -10,3 +10,5 @@ pydantic
 python-dotenv
 pytest
 streamlit
+scikit-learn
+xgboost
