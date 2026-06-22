@@ -5,9 +5,6 @@ psycopg2-binary
 yfinance
 pandas
 numpy
-pandas-ta
-scikit-learn
-xgboost
 plotly
 pydantic
 python-dotenv
