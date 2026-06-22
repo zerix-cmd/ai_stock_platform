@@ -8,9 +8,6 @@ numpy
 pandas-ta
 scikit-learn
 xgboost
-lightgbm
-torch
-transformers
 plotly
 pydantic
 python-dotenv
